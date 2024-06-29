@@ -13,7 +13,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Website!</h1>
+    <h1>Welcome GU!</h1>
     <p>We are glad to have you here.</p>
 </body>
 </html>
